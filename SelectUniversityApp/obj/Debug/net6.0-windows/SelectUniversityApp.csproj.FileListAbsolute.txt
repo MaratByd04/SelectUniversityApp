@@ -1,0 +1,16 @@
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\bin\Debug\net6.0-windows\SelectUniversityApp.exe
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\bin\Debug\net6.0-windows\SelectUniversityApp.deps.json
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\bin\Debug\net6.0-windows\SelectUniversityApp.runtimeconfig.json
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\bin\Debug\net6.0-windows\SelectUniversityApp.dll
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\bin\Debug\net6.0-windows\SelectUniversityApp.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.MenuForm.resources
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.csproj.GenerateResource.cache
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.AssemblyInfoInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.AssemblyInfo.cs
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.dll
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\refint\SelectUniversityApp.dll
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\SelectUniversityApp.genruntimeconfig.cache
+C:\Users\Я\Documents\сын прогер горе в семье\SelectUniversityApp\SelectUniversityApp\obj\Debug\net6.0-windows\ref\SelectUniversityApp.dll
